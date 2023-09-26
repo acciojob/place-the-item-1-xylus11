@@ -6,23 +6,9 @@
 	flex-wrap:wrap;
 	
 }
-.red
+.item
 {
 	background-color:red;
-	padding:20px;
-	margin:5px;
-	width:30px;
-}
-.blue
-{
-	background-color:blue;
-	padding:20px;
-	margin:5px;
-	width:30px;
-}
-.green
-{
-	background-color:green;
 	padding:20px;
 	margin:5px;
 	width:30px;
